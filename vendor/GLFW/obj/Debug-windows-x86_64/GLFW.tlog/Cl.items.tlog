@@ -1,0 +1,15 @@
+D:\C++\OpenGL-Project\vendor\GLFW\src\context.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\context.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\egl_context.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\egl_context.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\init.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\init.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\input.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\input.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\monitor.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\monitor.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\osmesa_context.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\osmesa_context.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\vulkan.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\vulkan.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\wgl_context.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\wgl_context.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\win32_init.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\win32_init.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\win32_joystick.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\win32_joystick.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\win32_monitor.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\win32_monitor.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\win32_thread.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\win32_thread.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\win32_time.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\win32_time.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\win32_window.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\win32_window.obj
+D:\C++\OpenGL-Project\vendor\GLFW\src\window.c;D:\C++\OpenGL-Project\vendor\GLFW\obj\Debug-windows-x86_64\window.obj

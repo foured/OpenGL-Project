@@ -1,0 +1,10 @@
+# Exclude VisualStudio
+/.vs
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
+
+# Exclude build
+/build
+/vendor/**/bin/
