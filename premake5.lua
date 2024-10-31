@@ -7,8 +7,8 @@ workspace "OpenGL-Project"
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
 group "Dependencies"
-    include "vendor/Glad"
-    include "vendor/GLFW"
+    include "OpenGL-Project/vendor/Glad"
+    include "OpenGL-Project/vendor/GLFW"
 group ""
 
 include "OpenGL-Project"

@@ -15,10 +15,10 @@ project(PROJECT_NAME)
         "%{prj.location}/**.lua",
         "%{prj.location}/**.txt",
 
-        "%{wks.location}/vendor/glm/glm/**.hpp",
-        "%{wks.location}/vendor/glm/glm/**.inl",
-        "%{wks.location}/vendor/stb_image/**.h",
-        "%{wks.location}/vendor/freetype/**.h"
+        "%{prj.location}/vendor/glm/glm/**.hpp",
+        "%{prj.location}/vendor/glm/glm/**.inl",
+        "%{prj.location}/vendor/stb_image/**.h",
+        "%{prj.location}/vendor/freetype/**.h"
     }
 
     defines {
@@ -26,12 +26,13 @@ project(PROJECT_NAME)
 	}
 
     includedirs{
-        "src",
-        "%{wks.location}/vendor/Glad/include",
-        "%{wks.location}/vendor/GLFW/include", 
-        "%{wks.location}/vendor/glm",
-        "%{wks.location}/vendor/stb_image",
-        "%{wks.location}/vendor/freetype/include"
+        "%{prj.location}/src",
+        
+        "%{prj.location}/vendor/Glad/include",
+        "%{prj.location}/vendor/GLFW/include", 
+        "%{prj.location}/vendor/glm",
+        "%{prj.location}/vendor/stb_image",
+        "%{prj.location}/vendor/freetype/include"
     }
 
     links{
